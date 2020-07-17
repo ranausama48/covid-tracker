@@ -24,7 +24,7 @@ You will also see any lint errors in the console.
 
 ### `Demo Live`
 
-https://covid_20.surge.sh/
+http://covid_20.surge.sh/
 
 ### `Other Available Scripts`
 
