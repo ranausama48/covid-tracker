@@ -41,7 +41,6 @@ function App() {
 
   return (
     <React.Fragment>
-      {console.log("state", state)}
       <Grid container direction="row" justify="center" alignItems="center">
         <CountryPicker country={state.country} onChange={onChange} />
       </Grid>
